@@ -6,3 +6,6 @@ So far, have built the authentication side of the application. Need to build the
 Request functions all work as they should. You don't have to use my API consumer_key. Check out https://getpocket.com/developer/docs/authentication for more info. 
 
  
+EDIT: Welp, nevermind. Turns out Pocket doesn't support article extraction (https://getpocket.com/developer/docs/v3/article-view). I'll leave the authentication stuff here if anyone wants to use it though, and might add basic add/remove functionality to round out the application. You could always use Diffbot as the attached webpage suggests however.
+
+I know I won't.
